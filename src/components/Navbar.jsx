@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FiMenu, FiX } from 'react-icons/fi';
-import logo from '../../public/assets/logo10.png'; // adjust path if needed
+import logo from '../../public/assets/TR_ENTERPRISES_vector.svg'; // adjust path if needed
 
 
 const Navbar = () => {
