@@ -65,7 +65,7 @@ export default function Footer() {
 
       {/* Bottom copyright */}
       <div className="mt-10 border-t border-gray-800 pt-6 text-center text-gray-500 text-sm">
-        &copy; {new Date().getFullYear()} TR Enterprises. All rights reserved.
+        &copy; {new Date().getFullYear()} TR Enterprises. All rights reserved........................................
       </div>
     </footer>
   );
