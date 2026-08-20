@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FiMenu, FiX } from 'react-icons/fi';
-import logo from '../../public/assets/tr-enterprisis-logo-only.svg'; // adjust path if needed
+import logo from '../../public/assets/logo.svg'; // adjust path if needed
 
 
 const Navbar = () => {
@@ -16,7 +16,7 @@ const Navbar = () => {
  <img
   src={logo}
   alt="TR Enterprises Logo"
-  className="h-12 w-auto object-contain"
+  className="h-16 w-auto object-contain"
 />
 </Link>
 
