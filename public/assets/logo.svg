@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1010"
+     width="1100"
      height="880"
-     viewBox="120 100 1010 880">
+     viewBox="80 100 1100 880">
 
   <defs>
 
@@ -175,7 +175,7 @@
     <g
       fill="url(#navyGrad)"
       font-family="Arial, Helvetica, sans-serif"
-      font-size="140"
+      font-size="180"
       font-weight="700"
       letter-spacing="6"
       text-anchor="middle">
