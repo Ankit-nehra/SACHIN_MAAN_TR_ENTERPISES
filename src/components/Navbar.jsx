@@ -13,11 +13,11 @@ const Navbar = () => {
         
         {/* Logo */}
 <Link to="/" className="flex items-center">
-  <img
-    src={logo}
-    alt="TR Enterprises Logo"
-    className="h-10 w-auto object-contain"
-  />
+ <img
+  src={logo}
+  alt="TR Enterprises Logo"
+  className="h-16 w-auto object-contain"
+/>
 </Link>
 
         {/* Desktop Links */}
